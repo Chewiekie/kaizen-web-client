@@ -86,6 +86,8 @@ Before you contribute to the project please make sure to read all items below.
 * [Code of Conduct](/CODE_OF_CONDUCT.md)
 * [Contributing Guide](/CONTRIBUTING.md)
 
+## Revision
+* [Oscar Barajas](https://twitter.com/gndx)
 
 ### License
 
